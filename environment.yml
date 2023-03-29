@@ -1,0 +1,16 @@
+name: spaceapi
+channels:
+    - defaults
+dependencies:
+    - pip
+    - six
+    - pip:
+      - ini-parser
+      - matplotlib
+      - scipy
+      - h5py
+      - numba
+      - pandas
+      - sunpy["all"]
+      - requests
+      - PyQt5
