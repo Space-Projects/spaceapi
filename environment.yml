@@ -14,3 +14,6 @@ dependencies:
       - sunpy["all"]
       - requests
       - PyQt5
+      - netCDF4
+      - pyglow
+      - future

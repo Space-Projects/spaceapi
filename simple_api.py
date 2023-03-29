@@ -6,7 +6,7 @@ import pandas as pd
 
 # Define the start and end dates
 tstart = '2011/08'
-tend = '2025/08'
+tend = '2015/01'
 
 
 # URL for sunspot data
